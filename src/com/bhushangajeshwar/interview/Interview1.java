@@ -16,6 +16,6 @@ public class Interview1 {
 		int x = scanner.nextInt();
 		System.out.println("value you entered :- "+x);
 	multiplication(x);
-	System.out.println("Abhay branch testing");
+	
 	}
 }
