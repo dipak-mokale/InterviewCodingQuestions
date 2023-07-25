@@ -2,7 +2,7 @@ package com.bhushangajeshwar.interview;
 import java.util.Scanner;
 public class Interview1 {
 	
-//print any no table using user input not hard coded
+// print any no table using user input not hard coded
 	
 	public static void multiplication(int no) {
 		for(int i=1;i<=10;i++) {
