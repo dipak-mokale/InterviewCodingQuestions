@@ -11,7 +11,7 @@ public class Interview3 {
 				System.out.println("Factors of given number is :"+a);				
 			}
 		}
-		return 0;			
+		return a;			
 		}
 	public static void main (String []Args) {
 		Interview3 d = new Interview3();
