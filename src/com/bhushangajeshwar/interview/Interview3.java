@@ -6,13 +6,21 @@ public class Interview3 {
 	//print factors of given number
 	
 	public void getfactors(int num) {
+//<<<<<<< BhushanGajeshwar
+//=======
 		int count=0;
+//>>>>>>> master
 		for (int a = 1; a<=num;a++) {
 			if (num%a==0) {
 //				System.out.println("Factors of given number is :"+a);
 				count++;
 			}
+//<<<<<<< BhushanGajeshwar
+		}
+				
+//=======
 		}System.out.println(count);
+//>>>>>>> master
 		}
 	public static void main (String []Args) {
 		Interview3 d = new Interview3();
